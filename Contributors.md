@@ -3159,4 +3159,3 @@ Oiloo
 - [dhaidev] (https://github.com/DhaiDev)
 - [Nileshkumar Chittevan] (https://github.com/npchittevan)
 - Aarushi Gupta
-- [Nitish Sharma] (https://github.com/Nitish-sharma99)
